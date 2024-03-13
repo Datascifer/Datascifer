@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Datascifer
 - 👀 I’m interested in ... what the future holds and how technology will influence the future.
-- 🌱 I’m currently learning ... <img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent"> , artificial intelligence, machine learning.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning ... Python, R, JavaScript, Data Science, Data Engineering, Artificial intelligence, and Machine learning.
+- 💞️ I’m looking to collaborate on ... all things Data Science to find Data trends to support research and innovation. Also, just a bit of Natural Language 😄
+- 📫 How to reach me ... Sometimes I am Batman 😄
+- ⚡ Fun fact: ... I am Data Man
 
 Aspiring Data Scientist | GitHub Portfolio
 
