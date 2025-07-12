@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @Datascifer
 - 👀 I’m interested in ... what the future holds and how technology will influence the future.
-- 🌱 I’m currently learning ... Python, R, JavaScript, Data Science, Data Engineering, Artificial intelligence, and Machine learning.
-- 💞️ I’m looking to collaborate on ... all things Data Science to find Data trends to support research and innovation. Also, just a bit of Natural Language 😄
+- 🌱 I’m currently deepening my expertise in Python, R, and JavaScript, with a focus on neural networks, TensorFlow, PyTorch, facial recognition, natural language processing (NLP), and natural language understanding (NLU). My learning path emphasizes high-impact applications—particularly in trend detection, data engineering workflows, and end-to-end machine learning systems.
+- 💞️ I’m looking to collaborate on ... all things Data Science to find Data trends to support research and innovation from Natural Language to AGI| Super Intelligence 😄
 - 📫 How to reach me ... Sometimes I am Batman 😄
 - ⚡ Fun fact: ... I am Data Man
 
-Aspiring Data Scientist | GitHub Portfolio
+UVA Data Scientist | GitHub Portfolio
 
 ## Welcome to My GitHub Profile!
 
