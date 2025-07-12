@@ -9,11 +9,11 @@ Aspiring Data Scientist | GitHub Portfolio
 
 ## Welcome to My GitHub Profile!
 
-Hey there! I'm a passionate data enthusiast embarking on a journey to become a proficient data scientist. Welcome to my GitHub repository, where I document my learning process, showcase my projects, and share my insights.
+Hey there! I'm a passionate data enthusiast embarking on a journey to become a proficient data scientist. Welcome to my UVA GitHub repository, where I document my learning process, showcase my projects, and share my insights.
 
 ### About Me
 
-I'm currently pursuing a career transition into the field of data science, driven by my curiosity for extracting valuable insights from data and my love for problem-solving. With a background in synthetic biology, I bring innovation and deep tech strategies to the table, and I'm eager to apply them in this exciting new domain.
+I began my journey in software design and architecture, developing fluency in languages like JavaScript, Fortran, and C. Over time, I pivoted into the life sciences to bridge manual research with computational tooling—engineering systems that automated redundant workflows, diversified experimental design, and accelerated innovation in biomaterials, pre-clinical drug discovery, and plant-based nutrition. With that chapter complete, I now return to the computational domain, rebuilding and sharpening my foundation in machine learning systems. Much has changed since TensorFlow 1.15, and I’m eager to engage with today’s data science challenges with a hybrid perspective grounded in both code and deep-tech experimentation.
 
 ### What You'll Find Here
 
@@ -25,13 +25,14 @@ I'm currently pursuing a career transition into the field of data science, drive
 
 ### Get in Touch
 
-I'm always open to collaboration, feedback, and connecting with like-minded individuals. Whether you have a project idea, want to discuss a data-related topic, or simply want to say hello, feel free to reach out to me via email [TBD] or connect with me on LinkedIn [TBD].
+I'm always open to collaboration, feedback, and connecting with like-minded individuals. Whether you have a project idea, want to discuss a data-related topic, or simply want to say hello, feel free to reach out to me via email [dsmloptechnician at google url].
 
 Thank you for stopping by, and I hope you find my GitHub repository informative and inspiring. Let's learn and grow together in the fascinating world of data science!
 
 Happy exploring!
 
-IYKYK
+IYKYK... Yes, I do maintain several private repositories; however, they involve proprietary technologies and are subject to non-disclosure agreements, so I’m unable to share them publicly.
+
 <!---
 Datascifer/Datascifer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
